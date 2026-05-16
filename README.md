@@ -40,7 +40,7 @@ Tengo gran facilidad para integrarme a equipos multidisciplinares, asimilar nuev
 
 ### 🌱 Experiencia y Habilidades Clave
 
-* **Trabajo en Equipo (Rally de Innovación):** Formé parte del equipo ganador del 1er Lugar Nacional e Internacional en el Rally Latinoamericano de Innovación (Impacto Social). Colaborar en el desarrollo técnico de la solución bajo tiempos muy ajustados me enseñó el valor de la comunicación, la delegación de tareas y el trabajo en conjunto.
+* **Trabajo en Equipo (Rally de Innovación):** Formé parte del equipo ganador del 1er Lugar Nacional e Internacional en el Rally Latinoamericano de Innovación (Impacto Social) 2024. Colaborar en el desarrollo técnico de la solución bajo tiempos muy ajustados me enseñó el valor de la comunicación, la delegación de tareas y el trabajo en conjunto.
 * **Resolución de Problemas (Experiencia Nissan Planta Civac):** Trabajar en el mantenimiento de líneas de producción me enseñó a seguir procesos estrictos, cumplir con estándares de calidad y mantener la cabeza fría ante fallas. Esta estructura mental me ayuda hoy a diagnosticar errores de código (debugging) de una forma más paciente y ordenada.
 
 ---
