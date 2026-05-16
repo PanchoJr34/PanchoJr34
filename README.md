@@ -2,7 +2,7 @@
 
 ### Ingeniero en Tecnologías de la Información | Desarrollador Web Jr.
 
-Soy Ingeniero en Tecnologías de la Información egresado de la Universidad Politécnica del Estado De Morelos. Me especializo en el desarrollo web de extremo a extremo, combinando un fuerte dominio en la creación de software con una sólida comprensión de la infraestructura técnica y el hardware.
+Soy Ingeniero en Tecnologías de la Información egresado de la Universidad Politécnica del Estado De Morelos. Me especializo en el desarrollo web, complementando mi perfil técnico con experiencia práctica en infraestructura y soporte.
 
 Tengo gran facilidad para integrarme a equipos multidisciplinares, asimilar nuevas tecnologías rápidamente y aportar soluciones eficientes en entornos de alta exigencia.
 
