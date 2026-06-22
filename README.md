@@ -45,6 +45,19 @@ Tengo gran facilidad para integrarme a equipos multidisciplinares, asimilar nuev
 
 ---
 
+###
+**📈 Enfoque Actual**
+
+Actualmente, mi enfoque está orientado a la Transformación Digital y la Industria 4.0, participando en proyectos de:
+
+🤖 Automatización de procesos mediante Inteligencia Artificial.
+🔄 Integración y optimización de ERPs y sistemas empresariales.
+📊 Diseño de flujos de trabajo y mapeo de procesos.
+⚙️ Desarrollo de soluciones para reducir costos operativos y aumentar la eficiencia.
+📈 Implementación de herramientas para mejorar la visibilidad y análisis de datos.
+🚀 Aplicación de IA y automatización para impulsar la mejora continua en entornos industriales.
+
+---
 ### 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-j-214254355)
