@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🇲🇽 Jiutepec, Morelos, México · 🚀 Grupo AMDOSA S.A. de C.V. · 💻 Transformación Digital e Industria 4.0
+  📍 Jiutepec, Morelos, México · 🏢 Grupo AMDOSA S.A. de C.V. · 🚀 Transformación Digital · 🤖 IA Aplicada
 </p>
 
 <p align="center">
@@ -25,141 +25,210 @@
 
 ## 👨‍💻 Acerca de mí
 
-Soy **Ingeniero en Tecnologías de la Información** egresado de la **Universidad Politécnica del Estado de Morelos (UPEMOR)**, con experiencia en desarrollo web, soporte técnico, documentación de procesos y automatización de tareas operativas.
+Soy **Ingeniero en Tecnologías de la Información** egresado de la **Universidad Politécnica del Estado de Morelos (UPEMOR)**. Tengo experiencia en **desarrollo web Full-Stack**, soporte de sistemas, documentación técnica, gestión de bases de datos, mantenimiento operativo y automatización de procesos.
 
-Actualmente formo parte de **Grupo AMDOSA S.A. de C.V.**, donde mi enfoque está orientado a la **implementación de Inteligencia Artificial, automatización de procesos, transformación digital y mejora continua** dentro de un entorno empresarial e industrial.
+Actualmente me desempeño en **Grupo AMDOSA S.A. de C.V.**, donde trabajo en iniciativas de **Inteligencia Artificial, transformación digital, análisis de procesos y mejora operativa**, con el objetivo de identificar oportunidades de automatización, reducir tareas repetitivas y mejorar la eficiencia de los flujos de trabajo internos.
 
-Me interesa crear soluciones prácticas que ayuden a las empresas a reducir tiempos, ordenar procesos, mejorar la toma de decisiones y aprovechar mejor sus herramientas digitales.
-
----
-
-## 🚀 Enfoque actual
-
-Actualmente estoy trabajando en proyectos relacionados con:
-
-- 🤖 **Automatización de procesos mediante Inteligencia Artificial.**
-- 🔄 **Mapeo, análisis y mejora de flujos de trabajo empresariales.**
-- 🧠 **Implementación de herramientas de IA para productividad, documentación y soporte operativo.**
-- 📊 **Análisis de información para mejorar la visibilidad de datos y la toma de decisiones.**
-- 🏭 **Transformación digital aplicada a entornos industriales y administrativos.**
-- ⚙️ **Optimización de procesos para reducir tiempos, costos y tareas repetitivas.**
-- 📝 **Documentación técnica, manuales, reportes ejecutivos y estandarización de procedimientos.**
+Me gusta combinar la parte técnica con el entendimiento de procesos reales de negocio, creando soluciones prácticas, documentadas y orientadas a resultados.
 
 ---
 
-## 💻 Stack tecnológico y herramientas
+## 🎯 Enfoque actual
 
-### Desarrollo Web
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Bases de datos, herramientas y metodología
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=trello&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel_Avanzado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### Inteligencia Artificial y transformación digital
-
-![AI](https://img.shields.io/badge/Inteligencia_Artificial-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Automation](https://img.shields.io/badge/Automatización-FF6F00?style=for-the-badge&logo=zapier&logoColor=white)
-![Process Mapping](https://img.shields.io/badge/Mapeo_de_Procesos-0052CC?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![ERP](https://img.shields.io/badge/ERP_y_Sistemas_Empresariales-0A66C2?style=for-the-badge&logo=sap&logoColor=white)
+- 🤖 Implementación de **Inteligencia Artificial** para apoyar procesos administrativos, operativos y comerciales.
+- 🔄 Mapeo, análisis y optimización de **flujos de trabajo empresariales**.
+- 📊 Creación de reportes, documentación ejecutiva y análisis de información para toma de decisiones.
+- ⚙️ Automatización de tareas repetitivas y mejora de procesos internos.
+- 🏭 Aplicación de tecnología en entornos industriales, administrativos y de transformación digital.
+- 🧩 Integración de herramientas digitales para mejorar productividad, control y seguimiento.
 
 ---
 
-## 🧩 Proyectos destacados
+## 🧰 Tecnologías y herramientas
 
-### 🛡️ Sistema Web contra el Acoso Escolar — SICAE
+### Lenguajes y desarrollo web
 
-**Rol:** Desarrollador Full-Stack  
-**Tecnologías:** React, Laravel, Node.js, Tailwind CSS, MySQL, Docker, Git
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
+</p>
 
-Plataforma web diseñada para el reporte, seguimiento y gestión segura de casos de bullying y ciberacoso en instituciones educativas.
+### Frameworks y librerías
 
-**Aportaciones principales:**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### Bases de datos, herramientas y metodologías
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVC-000000?style=for-the-badge&logo=codeigniter&logoColor=white" />
+</p>
+
+### IA, datos y productividad
+
+<p>
+  <img src="https://img.shields.io/badge/Inteligencia_Artificial-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automatización-FF6F00?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mapeo_de_Procesos-0052CC?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel_Avanzado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP_Básico-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+</p>
+
+---
+
+## 💼 Experiencia profesional
+
+### 🏢 Grupo AMDOSA S.A. de C.V.
+**Especialista en Inteligencia Artificial y Transformación Digital**  
+**Actualidad**
+
+- Análisis de procesos internos para detectar oportunidades de automatización.
+- Apoyo en la implementación de herramientas de IA para productividad, documentación y mejora operativa.
+- Elaboración de reportes ejecutivos, propuestas digitales y documentación de procesos.
+- Mapeo de flujos de trabajo para mejorar control, seguimiento y eficiencia.
+- Participación en iniciativas de transformación digital aplicadas a áreas administrativas, comerciales e industriales.
+
+---
+
+### 🏛️ H. Ayuntamiento de Jiutepec — Secretaría Municipal
+**Auxiliar Estratégico y Encargado de Sistemas**  
+**2025 - 2026**
+
+- Asistencia directa en la coordinación de asuntos prioritarios y control de documentación oficial.
+- Enlace entre diferentes dependencias del ayuntamiento.
+- Gestión del área de sistemas y soporte a plataformas internas.
+- Automatización de tareas administrativas para optimizar flujos de trabajo operativos.
+- Apoyo en bases de datos, organización de información y mejora de procesos internos.
+
+---
+
+### 🏭 Nissan Mexicana — Planta CIVAC
+**Técnico de Mantenimiento de fines de semana**  
+**Julio 2025 - Enero 2026**
+
+- Ejecución de mantenimiento preventivo y correctivo en líneas de ensamble.
+- Seguimiento de actividades mediante bitácoras, checklists y reportes de incidencias.
+- Cumplimiento de estándares operativos en un entorno industrial de alta exigencia.
+- Desarrollo de disciplina operativa, atención al detalle y solución ordenada de problemas.
+
+---
+
+### 🔧 Taller de Reparación Especializado
+**Encargado de Taller**  
+**2023 - 2024**
+
+- Diagnóstico y reparación de componentes electrónicos.
+- Atención directa al cliente y resolución de requerimientos técnicos.
+- Organización de actividades del taller y seguimiento de equipos en reparación.
+
+---
+
+## 🚀 Proyectos tecnológicos
+
+### 🛡️ SICAE — Sistema Web contra el Acoso Escolar
+**Desarrollador Full-Stack**  
+**Septiembre 2025 - Abril 2026**
+
+Plataforma web para denunciar y gestionar casos de bullying y ciberacoso de forma segura y anónima dentro de instituciones educativas.
+
+**Tecnologías:** React, Laravel, Node.js, Tailwind CSS, MySQL, Docker, Git, MVC.
+
+**Principales aportaciones:**
 
 - Desarrollo de interfaces web con React, HTML5, CSS3 y Tailwind CSS.
 - Implementación de funcionalidades backend con PHP, Laravel y Node.js.
-- Gestión de bases de datos relacionales bajo arquitectura MVC.
-- Enfoque en confidencialidad, comunicación anónima y seguimiento administrativo de incidencias.
+- Gestión de base de datos relacional.
+- Aplicación de arquitectura MVC y control de versiones con Git.
+- Enfoque en confidencialidad, seguimiento administrativo y comunicación segura.
 
 ---
 
-### 🏨 Plataforma de Gestión Hotelera — HotelHub
+### 🏨 HotelHub — Plataforma de Gestión Hotelera
+**Desarrollador Web**  
+**Agosto 2024 - Diciembre 2024**
 
-**Rol:** Desarrollador Web  
-**Tecnologías:** PHP nativo, JavaScript, Tailwind CSS, MySQL, MVC
+Sistema modular para la administración de operaciones hoteleras, enfocado en reservaciones, inventario y reportes.
 
-Sistema modular para la administración de operaciones hoteleras.
+**Tecnologías:** PHP nativo, JavaScript, Tailwind CSS, MySQL, MVC.
 
-**Aportaciones principales:**
+**Principales aportaciones:**
 
-- Desarrollo de módulos de reservaciones, habitaciones e inventario.
+- Desarrollo de módulos de reservaciones y gestión de inventario.
 - Generación automática de reportes operativos.
 - Diseño e implementación de base de datos.
-- Aplicación de arquitectura MVC para separar lógica, vistas y datos.
+- Organización del proyecto bajo arquitectura MVC.
 
 ---
 
-### 🤖 Automatización y transformación digital empresarial
+### 🎮 Videojuego Educativo 2D
+**Desarrollador Lógico — Unity**  
+**Septiembre 2022 - Diciembre 2022**
 
-**Rol actual:** Especialista en Inteligencia Artificial / Transformación Digital  
-**Empresa:** Grupo AMDOSA S.A. de C.V.
+Videojuego educativo desarrollado en Unity con lógica de juego, físicas e interacción básica.
 
-Proyecto enfocado en identificar procesos internos que puedan ser mejorados mediante herramientas digitales, IA y automatización.
+**Tecnologías:** Unity, C#.
 
-**Áreas de trabajo:**
+**Principales aportaciones:**
 
-- Análisis de procesos administrativos y operativos.
-- Documentación de flujos de trabajo.
-- Evaluación de herramientas de IA para productividad empresarial.
-- Propuestas de automatización para reducir tareas repetitivas.
-- Creación de reportes ejecutivos, manuales y documentación técnica.
-
----
-
-## 🏆 Logros y experiencia relevante
-
-- 🥇 **1er Lugar Internacional y Nacional** en el **Rally Latinoamericano de Innovación ANFEI 2024**, categoría Impacto Social.
-- 🧩 Experiencia en proyectos Full-Stack, bases de datos, control de versiones y documentación técnica.
-- 🏭 Experiencia operativa en entornos industriales, mantenimiento, bitácoras, checklists y seguimiento de incidencias.
-- 🏛️ Experiencia en gestión administrativa, soporte de sistemas y automatización de tareas en entorno gubernamental.
-- 📚 Capacidad para aprender herramientas nuevas, documentar procesos y convertir necesidades operativas en soluciones tecnológicas.
+- Programación de físicas y control de colisiones.
+- Desarrollo de lógica para comportamiento de enemigos.
+- Implementación de mecánicas básicas de juego.
 
 ---
 
-## 🎯 Objetivo profesional
+## 🏆 Logros
 
-Seguir creciendo como profesional en el área de **Inteligencia Artificial, Desarrollo Web y Transformación Digital**, creando soluciones que conecten la tecnología con necesidades reales de negocio.
+- 🥇 **1er Lugar Internacional** — Rally Latinoamericano de Innovación ANFEI 2024, categoría Impacto Social.
+- 🥇 **1er Lugar Nacional** — Rally Latinoamericano de Innovación ANFEI 2024.
+- 💡 Desarrollo en equipo de una solución tecnológica orientada a reducir el desperdicio de alimentos.
+- 📚 Participación en proyectos Full-Stack, documentación técnica, soporte de sistemas y mejora de procesos.
 
-Mi meta es aportar valor en proyectos donde pueda combinar:
+---
 
-- Desarrollo de software.
-- Automatización de procesos.
-- Inteligencia Artificial aplicada.
-- Documentación técnica.
-- Análisis y mejora de flujos de trabajo.
-- Soluciones digitales para empresas e industria.
+## 🎓 Educación
+
+| Nivel | Institución | Carrera / Especialidad | Periodo |
+|---|---|---|---|
+| Ingeniería | Universidad Politécnica del Estado de Morelos — UPEMOR | Ingeniería en Tecnologías de la Información | 2021 - Abril 2026 |
+| Técnico | CETIS No. 44 | Técnico en Programación | 2018 - 2021 |
 
 ---
 
 ## 🌎 Idiomas
 
-- 🇪🇸 Español: Nativo.
-- 🇺🇸 Inglés: Avanzado C1.
-- 🇫🇷 Francés: Básico A2.
+| Idioma | Nivel |
+|---|---|
+| Español | Nativo |
+| Inglés | Avanzado C1 |
+| Francés | Básico A2 |
+
+---
+
+## 📌 Perfil profesional resumido
+
+```txt
+Ingeniero en Tecnologías de la Información con experiencia en desarrollo web Full-Stack,
+soporte de sistemas, documentación técnica, bases de datos y automatización de procesos.
+
+Actualmente enfocado en Inteligencia Artificial, transformación digital, análisis de procesos
+y mejora operativa dentro de entornos empresariales e industriales.
+```
 
 ---
 
@@ -172,5 +241,5 @@ Mi meta es aportar valor en proyectos donde pueda combinar:
 ---
 
 <p align="center">
-  <i>“La tecnología tiene más valor cuando mejora procesos, resuelve problemas reales y ayuda a las personas a trabajar mejor.”</i>
+  <i>“La tecnología tiene más valor cuando resuelve problemas reales, mejora procesos y ayuda a las personas a trabajar mejor.”</i>
 </p>
