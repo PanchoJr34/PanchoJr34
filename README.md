@@ -8,7 +8,7 @@
 <p align="center">
   📍 <b>Ubicación:</b> Jiutepec, Morelos, México &nbsp;|&nbsp;
   🏢 <b>Trabajo actual:</b> Grupo AMDOSA S.A. de C.V. &nbsp;|&nbsp;
-  🎓 <b>Formación:</b> UPEMOR &nbsp;|&nbsp;
+  🎓 <b>Formación:</b> Universidad Politécnica del Estado de Morelos &nbsp;|&nbsp;
   🚀 <b>Enfoque:</b> IA, Automatización y Transformación Digital
 </p>
 
@@ -106,7 +106,7 @@ Actualmente trabajo en **Grupo AMDOSA S.A. de C.V.**, enfocado en **Inteligencia
 
 ### 🏛️ H. Ayuntamiento de Jiutepec — Secretaría Municipal
 **Auxiliar Estratégico y Encargado de Sistemas**  
-**2025 - 2026**
+**Enero 2025 - Febrero 2026**
 
 - Asistencia directa al Secretario Municipal en la coordinación de asuntos prioritarios, control de documentación oficial y enlace entre diversas dependencias del ayuntamiento.
 - Gestión del área de sistemas, asegurando el óptimo funcionamiento de plataformas internas, bases de datos y automatización de tareas administrativas para optimizar los flujos de trabajo operativos.
@@ -178,7 +178,7 @@ Proyecto educativo desarrollado en Unity con lógica de juego e interacción bá
 
 | Nivel | Institución | Carrera / Especialidad | Periodo |
 |---|---|---|---|
-| 🎓 Ingeniería | Universidad Politécnica del Estado de Morelos — UPEMOR | Ingeniería en Tecnologías de la Información | 2021 - Abril 2026 |
+| 🎓 Ingeniería | Universidad Politécnica del Estado de Morelos — UPEMOR | Ingeniería en Tecnologías de la Información | Septiembre 2021 - Abril 2026 |
 | 💻 Técnico | CETIS No. 44 | Técnico en Programación | 2018 - 2021 |
 
 ---
@@ -195,7 +195,7 @@ Proyecto educativo desarrollado en Unity con lógica de juego e interacción bá
 
 | Idioma | Nivel |
 |---|---|
-| 🇪🇸 Español | Nativo |
+| 🇲🇽 Español | Nativo |
 | 🇺🇸 Inglés | Avanzado C1 |
 | 🇫🇷 Francés | Básico A2 |
 
