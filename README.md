@@ -12,15 +12,6 @@
   🚀 <b>Enfoque:</b> IA, Automatización y Transformación Digital
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/francisco-j-214254355">
-    <img src="https://img.shields.io/badge/LinkedIn-Francisco%20Jimenez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:soyfrancisco.js31@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-soyfrancisco.js31%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 Acerca de mí
