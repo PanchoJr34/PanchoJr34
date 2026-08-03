@@ -95,15 +95,6 @@ Actualmente trabajo en **Grupo AMDOSA S.A. de C.V.**, enfocado en **Inteligencia
 
 ---
 
-### 🏛️ H. Ayuntamiento de Jiutepec — Secretaría Municipal
-**Auxiliar Estratégico y Encargado de Sistemas**  
-**Enero 2025 - Febrero 2026**
-
-- Asistencia directa al Secretario Municipal en la coordinación de asuntos prioritarios, control de documentación oficial y enlace entre diversas dependencias del ayuntamiento.
-- Gestión del área de sistemas, asegurando el óptimo funcionamiento de plataformas internas, bases de datos y automatización de tareas administrativas para optimizar los flujos de trabajo operativos.
-
----
-
 ### 🏭 Nissan Mexicana — Planta CIVAC
 **Técnico de Mantenimiento de fines de semana**  
 **Julio 2025 - Enero 2026**
